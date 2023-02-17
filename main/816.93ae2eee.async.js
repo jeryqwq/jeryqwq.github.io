@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyourname=self.webpackChunkyourname||[]).push([[816],{9816:function(s,n,t){t.r(n),t.d(n,{default:function(){return e}});var O=t(79685),u=t(44663),E=t(63342);function e(){var o=(0,u.useOutletContext)();return(0,E.jsx)(u.Outlet,{context:o})}}}]);
