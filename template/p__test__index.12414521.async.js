@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_vis_template_=self.webpackChunk_vis_template_||[]).push([[701],{84548:function(n,e,t){t.r(e);var u=t(97458);e.default=function(){return(0,u.jsx)("div",{children:"Test page"})}}}]);
